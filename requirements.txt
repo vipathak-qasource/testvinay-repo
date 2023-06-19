@@ -1,4 +1,0 @@
-requests
-html2text
-bs4
-boto3
